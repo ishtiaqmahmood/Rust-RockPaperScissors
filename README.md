@@ -27,7 +27,9 @@ cd rock-paper-scissors-rust
 cargo run
 ```
 
-### 💻 Gameplay Example
+---
+
+## 💻 Gameplay Example
 
 -Welcome to Rock, Paper, Scissors!
 -Enter your choice (rock, paper, scissors):
@@ -35,3 +37,5 @@ cargo run
 -You chose: rock
 -Computer chose: scissors
 -You win!
+
+---
