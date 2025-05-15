@@ -25,8 +25,9 @@ rustc --version
 git clone https://github.com/yourusername/rock-paper-scissors-rust.git
 cd rock-paper-scissors-rust
 cargo run
+```
 
-## 💻 Gameplay Example
+### 💻 Gameplay Example
 
 -Welcome to Rock, Paper, Scissors!
 -Enter your choice (rock, paper, scissors):
